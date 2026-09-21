@@ -1,6 +1,6 @@
 # bWAPP: Session ID Exposure in URL (Session Hijacking)
 
-**Author:** Bully-Ish
+**Author:** RatBully
 **Platform:** bWAPP (Broken Web Application)
 **Lab/Module:** Session Management - Session ID in URL
 **Category:** Broken Authentication / Session Management
