@@ -1,6 +1,6 @@
 # bWAPP: Strong Sessions (Cookie Security Flags)
 
-**Author:** Bully-Ish
+**Author:** RatBully
 **Platform:** bWAPP (Broken Web Application)
 **Lab/Module:** Session Management - Strong Sessions
 **Category:** Broken Authentication / Session Management
